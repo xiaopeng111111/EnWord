@@ -1,0 +1,9 @@
+F:\英语四级单词（完成版本）\EnWordCC\EnWordCC\bin\Debug\EnWordCC.exe.config
+F:\英语四级单词（完成版本）\EnWordCC\EnWordCC\bin\Debug\EnWordCC.exe
+F:\英语四级单词（完成版本）\EnWordCC\EnWordCC\bin\Debug\EnWordCC.pdb
+F:\英语四级单词（完成版本）\EnWordCC\EnWordCC\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\英语四级单词（完成版本）\EnWordCC\EnWordCC\obj\Debug\EnWordCC.FrmMain.resources
+F:\英语四级单词（完成版本）\EnWordCC\EnWordCC\obj\Debug\EnWordCC.Properties.Resources.resources
+F:\英语四级单词（完成版本）\EnWordCC\EnWordCC\obj\Debug\Server.csproj.GenerateResource.Cache
+F:\英语四级单词（完成版本）\EnWordCC\EnWordCC\obj\Debug\EnWordCC.exe
+F:\英语四级单词（完成版本）\EnWordCC\EnWordCC\obj\Debug\EnWordCC.pdb

@@ -1,0 +1,16 @@
+F:\EnWordCC\bin\Debug\EnWordCC.exe.config
+F:\EnWordCC\bin\Debug\EnWordCC.exe
+F:\EnWordCC\bin\Debug\EnWordCC.pdb
+F:\EnWordCC\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\EnWordCC\bin\Debug\Office.dll
+F:\EnWordCC\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\EnWordCC\bin\Debug\stdole.dll
+F:\EnWordCC\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\EnWordCC\bin\Debug\Office.xml
+F:\EnWordCC\obj\Debug\Client.csproj.ResolveComReference.cache
+F:\EnWordCC\obj\Debug\EnWordCC.FrmMain.resources
+F:\EnWordCC\obj\Debug\EnWordCC.Properties.Resources.resources
+F:\EnWordCC\obj\Debug\Client.csproj.GenerateResource.Cache
+F:\EnWordCC\obj\Debug\EnWordCC.exe
+F:\EnWordCC\obj\Debug\EnWordCC.pdb
+F:\EnWordCC\obj\Debug\Client.csprojResolveAssemblyReference.cache
